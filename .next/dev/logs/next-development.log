@@ -1,0 +1,1062 @@
+[00:00:01.649] Server  LOG      ✓ Ready in 1108ms
+[00:00:08.341] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:00.669] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.671] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.672] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.674] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.678] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.680] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.682] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.683] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.685] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.686] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.688] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.689] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.691] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.693] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.695] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.697] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.698] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.699] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.702] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.704] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.706] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.707] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.709] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.711] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.713] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.714] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.716] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.719] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:00.720] Server  LOG      ✓ Compiled in 22ms
+[00:01:01.737] Browser ERROR   ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:20.503] Server  ERROR    ⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:20.627] Browser ERROR   ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:21.636] Browser ERROR   ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:21.636] Browser ERROR   ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:22.474] Browser ERROR   uncaughtError: Error: ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:22.677] Browser ERROR   ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:22.677] Browser ERROR   ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:03:17.740] Browser ERROR   ./src/app/page.tsx:7:1
+Module not found: Can't resolve '../components/Students'
+   5 | import Navigation from '../components/Navigation';
+   6 | import Dashboard from '../components/Dashboard';
+>  7 | import Students from '../components/Students';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function Home() {
+  10 |   const [activeTab, setActiveTab] = useState('dashboard');
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:03:49.845] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:15.899] Server  LOG      ✓ Compiled in 22ms
+[00:29:32.832] Server  LOG      ✓ Compiled in 39ms
+[00:29:33.745] Browser ERROR   ./src/app/page.tsx:24:2
+Ecmascript file had an error
+  22 |     </>
+  23 |   );
+> 24 | }'use client';
+     |  ^^^^^^^^^^^^^
+  25 |
+  26 | import { useState } from 'react';
+  27 | import Header from '../components/Header';
+
+The "use client" directive must be placed before other expressions. Move it to the top of the file to resolve this issue.
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:29:33.745] Browser ERROR   ./src/app/page.tsx:29:8
+Ecmascript file had an error
+  27 | import Header from '../components/Header';
+  28 | import Navigation from '../components/Navigation';
+> 29 | import Dashboard from '../components/Dashboard';
+     |        ^^^^^^^^^
+  30 | import Students from '../components/Students';
+  31 | import Teachers from '../components/Teachers';
+  32 |
+
+the name `Dashboard` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:29:33.745] Browser ERROR   ./src/app/page.tsx:27:8
+Ecmascript file had an error
+  25 |
+  26 | import { useState } from 'react';
+> 27 | import Header from '../components/Header';
+     |        ^^^^^^
+  28 | import Navigation from '../components/Navigation';
+  29 | import Dashboard from '../components/Dashboard';
+  30 | import Students from '../components/Students';
+
+the name `Header` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:29:33.745] Browser ERROR   ./src/app/page.tsx:33:25
+Ecmascript file had an error
+  31 | import Teachers from '../components/Teachers';
+  32 |
+> 33 | export default function Home() {
+     |                         ^^^^
+  34 |   const [activeTab, setActiveTab] = useState('dashboard');
+  35 |
+  36 |   return (
+
+the name `Home` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:29:33.745] Browser ERROR   ./src/app/page.tsx:28:8
+Ecmascript file had an error
+  26 | import { useState } from 'react';
+  27 | import Header from '../components/Header';
+> 28 | import Navigation from '../components/Navigation';
+     |        ^^^^^^^^^^
+  29 | import Dashboard from '../components/Dashboard';
+  30 | import Students from '../components/Students';
+  31 | import Teachers from '../components/Teachers';
+
+the name `Navigation` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:29:33.745] Browser ERROR   ./src/app/page.tsx:30:8
+Ecmascript file had an error
+  28 | import Navigation from '../components/Navigation';
+  29 | import Dashboard from '../components/Dashboard';
+> 30 | import Students from '../components/Students';
+     |        ^^^^^^^^
+  31 | import Teachers from '../components/Teachers';
+  32 |
+  33 | export default function Home() {
+
+the name `Students` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:29:33.745] Browser ERROR   ./src/app/page.tsx:33:1
+Ecmascript file had an error
+  31 | import Teachers from '../components/Teachers';
+  32 |
+> 33 | export default function Home() {
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 34 |   const [activeTab, setActiveTab] = useState('dashboard');
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 35 |
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 36 |   return (
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 37 |     <>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 38 |       <Header />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 39 |       <div className="container">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 40 |         <Navigation activeTab={activeTab} onTabChange={setActiveTab} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 41 |       </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 42 |       <div className="container" style={{ marginTop: 20 }}>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 43 |         {activeTab === 'dashboard' && <Dashboard />}
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 44 |         {activeTab === 'etudiants' && <Students />}
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 45 |         {activeTab === 'professeurs' && <Teachers />}
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 46 |       </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 47 |     </>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 48 |   );
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 49 | }
+     | ^^
+
+the name `default` is exported multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:29:33.745] Browser ERROR   ./src/app/page.tsx:26:10
+Ecmascript file had an error
+  24 | }'use client';
+  25 |
+> 26 | import { useState } from 'react';
+     |          ^^^^^^^^
+  27 | import Header from '../components/Header';
+  28 | import Navigation from '../components/Navigation';
+  29 | import Dashboard from '../components/Dashboard';
+
+the name `useState` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:32:59.527] Server  LOG      ✓ Compiled in 6ms
+[00:34:12.070] Server  LOG      ✓ Compiled in 33ms
+[00:37:25.695] Server  LOG      ✓ Compiled in 53ms
+[00:46:04.478] Server  LOG      ✓ Compiled in 26ms
+[00:46:24.986] Server  LOG      ✓ Compiled in 34ms
+[00:50:14.108] Server  LOG      ✓ Compiled in 33ms
+[00:51:36.682] Server  LOG      ✓ Compiled in 23ms

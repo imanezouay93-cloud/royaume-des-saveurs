@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///C:/workspace/my-nextjs-app/src/app/page.tsx"],"sourcesContent":["import React from 'react';\n\nconst HomePage = () => {\n    return (\n        <div>\n            <h1>Welcome to My Next.js App</h1>\n            <p>This is the main page of the application.</p>\n        </div>\n    );\n};\n\nexport default HomePage;"],"names":[],"mappings":";;;;;;AAEA,MAAM,WAAW;IACb,qBACI,8OAAC;;0BACG,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;0BAAE;;;;;;;;;;;;AAGf;uCAEe"}}]
+}
